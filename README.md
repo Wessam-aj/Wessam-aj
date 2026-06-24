@@ -19,7 +19,7 @@ I am a Data Analyst with a strong academic background in **Business Administrati
 - **Tool:** Google BigQuery (Advanced SQL)
 - **Highlights:** Used Window Functions (Rolling Averages) to forecast holiday peaks, multi-table JOINs, and CTEs to analyze the impact of product weight and delivery times on customer satisfaction.
 
-#### 2. 📉 [Superstore Sales & Profitability Analysis (Tableau)](ضع_رابط_لوحة_تابلو_هنا)
+#### 2. 📉 [Superstore Sales & Profitability Analysis (Tableau)](https://github.com/Wessam-aj/Superstore-Sales-Profit-Analysis.git)
 - **Tool:** Tableau & Google Sheets
 - **Highlights:** Cleaned corrupted localized data and built an interactive dashboard to debunk seasonal sales myths, revealing that aggressive mid-year discounts were cannibalizing net profits.
 
