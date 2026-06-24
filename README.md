@@ -15,7 +15,7 @@ I am a Data Analyst with a strong academic background in **Business Administrati
 
 ### 🚀 Featured Projects
 
-#### 1. 🛒 [E-Commerce Supply Chain & Logistics Analysis (SQL)](ضع_رابط_مستودع_لوجستيات_هنا)
+#### 1. 🛒 [E-Commerce Supply Chain & Logistics Analysis (SQL)](https://github.com/Wessam-aj/Logistics-Supply-Chain-SQL-Analysis.git)
 - **Tool:** Google BigQuery (Advanced SQL)
 - **Highlights:** Used Window Functions (Rolling Averages) to forecast holiday peaks, multi-table JOINs, and CTEs to analyze the impact of product weight and delivery times on customer satisfaction.
 
