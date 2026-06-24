@@ -23,7 +23,7 @@ I am a Data Analyst with a strong academic background in **Business Administrati
 - **Tool:** Tableau & Google Sheets
 - **Highlights:** Cleaned corrupted localized data and built an interactive dashboard to debunk seasonal sales myths, revealing that aggressive mid-year discounts were cannibalizing net profits.
 
-#### 3. 🧑‍💼 [HR Employee Attrition EDA (Python)](ضع_رابط_مستودع_بايثون_هنا)
+#### 3. 🧑‍💼 [HR Employee Attrition EDA (Python)](https://github.com/Wessam-aj/HR-Employee-Attrition-Python-EDA.git)
 - **Tool:** Python (Pandas, Seaborn) in Google Colab
 - **Highlights:** Conducted Exploratory Data Analysis to prove that mandatory overtime increases attrition risk by 3x, and identified the compensation gap causing entry-level employee churn.
 
