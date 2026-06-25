@@ -30,7 +30,7 @@ I am a Data Analyst with a strong academic background in **Business Administrati
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Wessam Al-Jaghamy](https://www.linkedin.com/in/wessam-aj)
+- **LinkedIn:** [Wessam Al-Jaghamy](www.linkedin.com/in/wessam-aljgamy-501101419)
 
 - **Email:** [wessam.aj00@gmail.com](mailto:wessam.aj00@gmail.com)
 
