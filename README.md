@@ -30,9 +30,8 @@ I am a Data Analyst with a strong academic background in **Business Administrati
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/YourProfile](www.linkedin.com/in/wessam-aj-501101419)
+- **LinkedIn:** [Wessam Al-Jaghamy](https://www.linkedin.com/in/wessam-aj)
 
-)
-- **Email:** Wessam.aj00@gmail.com
+- **Email:** [YourEmail@gmail.com](mailto:wessam.aj00@gmail.com)
 
 *"Data without context is just noise. I provide the context."*
