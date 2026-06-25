@@ -30,7 +30,8 @@ I am a Data Analyst with a strong academic background in **Business Administrati
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/YourProfile](www.linkedin.com/in/wessam-ajg-501101419
+- **LinkedIn:** [linkedin.com/in/YourProfile](www.linkedin.com/in/wessam-aj-501101419)
+
 )
 - **Email:** Wessam.aj00@gmail.com
 
